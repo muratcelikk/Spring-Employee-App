@@ -1,3 +1,3 @@
 # Spring-Employee-App
 
-Quotation: javaj2eeplanet
+Quotation: http://javaj2eeplanet.blogspot.com/
