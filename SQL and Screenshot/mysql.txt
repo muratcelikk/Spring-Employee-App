@@ -1,0 +1,10 @@
+MYSQL --javaj2eeplanet
+
+1-"companyapp" adından db kur.
+2- companyapp db de sql e;
+
+CREATE TABLE employees( 
+    id INT(10) AUTO_INCREMENT PRIMARY KEY, 
+    email VARCHAR(255) NOT NULL, 
+    name VARCHAR(255) NOT NULL
+)
